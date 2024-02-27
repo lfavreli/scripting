@@ -1,6 +1,10 @@
 # Scripting Repository
 
-This repository contains a collection of scripts created for various purposes. Below is a list of scripts available in this repository:
+This repository contains a collection of scripts created for various purposes. 
+
+## Available scripts
+
+Below is a list of scripts present in this repository:
 
 1. **enable_hyper-v.cmd**: This script enables Hyper-V virtualization on Windows systems. It checks if Hyper-V is already enabled and if not, it enables it.
 
@@ -15,10 +19,6 @@ Each script is designed to be simple to use. Follow the instructions below to ru
 2. **Run as Administrator**: To ensure proper execution, right-click on the script file and select "Run as administrator".
 
 3. **Follow Instructions**: If any prompts or instructions are provided by the script, follow them accordingly.
-
-## Contributions
-
-Contributions to this repository are welcome! If you have scripts that you'd like to share or improvements to existing ones, feel free to submit a pull request.
 
 ## License
 
